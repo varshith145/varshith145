@@ -1,8 +1,8 @@
-# 💫 About Me:
-Hi, I'm Varshith, an MS Computer Science student at the University of Georgia, graduating May 2026.<br>
+# About Me:
+Hi, I'm Varshith, an MS Computer Science student at the University of Georgia, graduated May 2026.<br>
 I built SentinelLM, an AI security gateway that detects and redacts PII in LLM traffic using a fine-tuned DistilBERT NER model trained on 400k+ samples, lifting recall from 50% to 82%+.<br>
 Also building a local-first KG-RAG system with Neo4j and Ollama that shows exactly which sources a model grounded its answer on.<br>
-Looking for entry-level roles in ML engineering, applied NLP, or AI/LLM infrastructure.
+Looking for entry-level roles in ML engineering, applied NLP, AI/LLM infrastructure and full-stack roles
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pvarshith) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varshith145@gmail.com)
